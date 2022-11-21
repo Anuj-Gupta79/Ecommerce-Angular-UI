@@ -4,7 +4,7 @@
   flex-direction: column;
   min-width: 0;
   word-wrap: break-word;
-  background: #fff;
+  background: rgb(255, 255, 255);
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.2);
   border-radius: .25rem;
@@ -21,7 +21,7 @@
 }
 
 .item a:hover {
-  color: blue;
+  color: rgb(179, 167, 36);
 }
 
 .card {
